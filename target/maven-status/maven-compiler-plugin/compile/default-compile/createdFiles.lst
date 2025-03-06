@@ -1,0 +1,11 @@
+br\com\senior\chkbackend\model\SisFunModel.class
+br\com\senior\chkbackend\util\ErrorCategory.class
+br\com\senior\chkbackend\model\SisFunPkModel.class
+br\com\senior\chkbackend\domain\dto\LoginBean.class
+br\com\senior\chkbackend\domain\dto\UsuarioBean.class
+br\com\senior\chkbackend\ChkbackendApplication.class
+br\com\senior\chkbackend\controller\LoginController.class
+br\com\senior\chkbackend\model\SisUsuFuModel.class
+br\com\senior\chkbackend\util\ServiceException.class
+br\com\senior\chkbackend\domain\Login.class
+br\com\senior\chkbackend\model\SisUsuFuPkModel.class
